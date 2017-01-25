@@ -1,0 +1,117 @@
+/* Sayfa Style */
+body			{margin:0px; background:url(resimler/bg.gif) repeat-x #050505;}
+body,td,th		{font-family:"Trebuchet MS", "Arial Narrow", Arial; font-size:13px; color:#333;}
+input			{font-family:"Trebuchet MS", "Arial Narrow", Arial;}
+.inputbuton		{background:url(resimler/buton.gif) bottom; font:13px arial,sans-serif; border:1px solid #A00 ;color:#FFF; cursor:pointer; height:30px; margin:0;outline:0;padding:0 6px;width:auto;overflow:visible;vertical-align:top}
+form			{margin:0px;}
+hr				{color:#ccc; background-color:#ccc; height:1px; border:0px;}
+.ahr			{color:#350; background-color:#350; height:3px; border:0px;}
+
+
+#liste			{color:#666; overflow:auto; height:223px; width:350px; scrollbar-face-color:#333333 !important; scrollbar-shadow-color:#333333 !important; scrollbar-highlight-color:#333333 !important; scrollbar-3dlight-color:#333333 !important; scrollbar-darkshadow-color:#333333 !important; scrollbar-track-color:#151515 !important; scrollbar-arrow-color:#666666 !important;}
+#liste td		{border-bottom:1px solid #151515; color:#666; }
+#liste .aktif	{border-bottom:1px solid #151515; background-color:#000; }
+
+#kategoriler	{height:20px; width:355px; background-color:#070707; color:#900; text-align:center;}
+#kategoriler a	{color:#900; text-decoration:none;}
+#kategoriler a:hover	{color:#C00;}
+
+.liste_satir	{border-bottom:1px dashed #CCC;}
+
+
+#mesaj			{width:275px; text-align:left; position:absolute; left:0px; top:300px; padding:7px; border:7px solid #333; background-color:#080808; display:none; visibility:hidden;}
+
+.dialog			{border:1px solid #DDD; background-color:#EEE;}
+
+#div_zaman		{border:1px solid #333;	background-color:#2A2A2A; margin:4px 0px; height:4px;}
+
+.reklam			{font-size:10px; background-color:#333; color:#FFF; width:306px; padding-left:4px; text-align:left; display:block;}
+.reklam300		{border:2px solid #333; padding:3px; width:300px; height:250px;}
+
+
+
+.tab, 
+.tab:link, 
+.tab:active, 
+.tab:visited	{font-size:12px; color:#BFBFBF; text-decoration:none; display:block; height:36px; line-height:36px; vertical-align:middle;}
+.tab:hover		{color:#FFFFFF; background-image:url(resimler/tab_bg.gif);}
+
+.tab_a, 
+.tab_a:link, 
+.tab_a:active, 
+.tab_a:visited, 
+.tab_a:hover	{font-size:12px; color:#FFFFFF; background-image:url(resimler/tab_bg.gif); text-decoration:none; display:block; height:36px; line-height:36px; vertical-align:middle;}
+
+
+
+#sayfalar		{text-align:right;	margin-top:8px;}
+
+#sayfalar 
+.sayfabuton, 
+.sayfabuton:link, 
+.sayfabuton:visited, 
+.sayfabuton:active {
+	text-decoration: none;
+	color:#777777;
+	font-size:14px;
+	border:1px solid #222222;
+	padding:0px 4px; 
+	margin-right:1px;
+	text-align:center;
+}
+#sayfalar
+.sayfabuton:hover {color:#FFCC00; background-color:#222222;}
+
+#sayfalar
+.sayfabutonaktif, 
+.sayfabutonaktif:link, 
+.sayfabutonaktif:visited, 
+.sayfabutonaktif:active {
+	text-decoration: none;
+	color:#000000;
+	font-weight:bold;
+	font-size:14px;
+	border:1px solid #222222;
+	background-color:#FFCC00;
+	padding:0px 4px; 
+	margin-right:1px;
+	text-align:center;
+}
+#sayfalar
+.sayfabutonaktif:hover {color:#000000; background-color:#FF9900;}
+
+#sayfalar2		{text-align:center;	margin-top:8px; margin-bottom:8px;}
+
+#sayfalar2
+.sayfabuton, 
+.sayfabuton:link, 
+.sayfabuton:visited, 
+.sayfabuton:active {
+	text-decoration: none;
+	color:#555555;
+	font-size:16px;
+	border:1px solid #CCCCCC;
+	padding:0px 4px; 
+	margin-right:3px;
+	text-align:center;
+}
+#sayfalar2
+.sayfabuton:hover {color:#000000; background-color:#CCCCCC;}
+
+#sayfalar2
+.sayfabutonaktif, 
+.sayfabutonaktif:link, 
+.sayfabutonaktif:visited, 
+.sayfabutonaktif:active {
+	text-decoration: none;
+	color:#000000;
+	font-weight:bold;
+	font-size:16px;
+	border:1px solid #CCCCCC;
+	background-color:#FFCC00;
+	padding:0px 4px; 
+	margin-right:3px;
+	text-align:center;
+}
+
+

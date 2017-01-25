@@ -1,0 +1,16 @@
+<ASX version = "3.0">
+    <entry clientskip="no" skipifref="no">
+<REF HREF="connect.gif"/><PARAM NAME="ShowWhileBuffering" VALUE="true"/>
+
+    </entry>
+    <entry clientskip="no" skipifref="no">
+	<Ref href = "http://fbtvonline.com/Members/fbtvonline.com_anon.aspx?Rate=173"/>
+    </entry>
+    <entry clientskip="no" skipifref="no">
+	<Ref href = "http://fbtvonline.com/Members/fbtvonline.com_anon.aspx?Rate=173"/>
+    </entry>
+    <entry clientskip="no" skipifref="no">
+	<Ref href = "http://fbtvonline.com/Members/fbtvonline.com_anon.aspx?Rate=173"/>
+    </entry>
+
+<entry clientskip="no" skipifref="no"><REF HREF="test.gif"/><DURATION VALUE="10:00:03.00"/><PARAM NAME="ShowWhileBuffering" VALUE="true"/></entry>  </asx>

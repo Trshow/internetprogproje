@@ -1,0 +1,16 @@
+<ASX version = "3.0">
+    <entry clientskip="no" skipifref="no">
+<REF HREF="connect.gif"/><PARAM NAME="ShowWhileBuffering" VALUE="true"/>
+
+    </entry>
+    <entry clientskip="no" skipifref="no">
+	<Ref href = "mms://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/horsgv/regions/siege/france2/meteo/meteo_GT.wmv"/>
+    </entry>
+    <entry clientskip="no" skipifref="no">
+	<Ref href = "mms://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/horsgv/regions/siege/france2/meteo/meteo_GT.wmv"/>
+    </entry>
+    <entry clientskip="no" skipifref="no">
+	<Ref href = "mms://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/horsgv/regions/siege/france2/meteo/meteo_GT.wmv"/>
+    </entry>
+
+<entry clientskip="no" skipifref="no"><REF HREF="test.gif"/><DURATION VALUE="10:00:03.00"/><PARAM NAME="ShowWhileBuffering" VALUE="true"/></entry>  </asx>
